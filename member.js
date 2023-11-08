@@ -1,3 +1,4 @@
-function skillsMember(){
-    console.log("Not working actually");
-}   
+function skillsMember() {
+    var skills = ['JS', 'React', 'React Native'];
+    return skills;
+}
